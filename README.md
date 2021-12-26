@@ -1,4 +1,4 @@
-## Приветствую вас на моем Github'е
+## Приветствую вас на моем Github'е 📌
 
 <p>Я fullstack-разработчик.</p>
 
@@ -31,4 +31,5 @@
 
 ### Связаться со мной:
 
-![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](http://instagram.com/thedjam)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](http://t.me/thedjam)

@@ -1,14 +1,14 @@
-## Приветствую вас на моем Github'е 📌
+## Я fullstack-разработчик.
 
-<p>Я fullstack-разработчик.</p>
 
 ## Мои проекты:
-### - Infinity talk   ### - Restaurant
+#### - Infinity talk  
 
-> [Код]()             > [Код]()
+> [Код]()           
 
+#### - Restaurant
 
-
+> [Код]()
 
 
 ## Языки и инструменты, которыми я пользуюсь:
@@ -20,7 +20,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=Figma)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=NodeJS)
+![Node.JS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=NodeJS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express)
@@ -29,7 +29,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
 
-### Связаться со мной:
+### Мои соц.сети:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](http://instagram.com/thedjam)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](http://t.me/thedjam)

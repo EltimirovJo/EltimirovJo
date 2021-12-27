@@ -33,8 +33,8 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](http://instagram.com/thedjam)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](http://t.me/thedjam)
-<<<<<<< HEAD
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltimirovJo&count_private=true&show_icons=true&theme=tokyonight)
-=======
->>>>>>> 43b410404fb3a5d144f868557640022057d6ab1b
+
+

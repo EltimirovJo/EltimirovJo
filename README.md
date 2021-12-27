@@ -35,6 +35,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](http://t.me/thedjam)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltimirovJo&count_private=true&show_icons=true&theme=tokyonight)
-
 

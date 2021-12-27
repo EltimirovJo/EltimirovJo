@@ -20,7 +20,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=Figma)
-![Node.JS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=NodeJS)
+![NodeJs](https://img.shields.io/badge/NodeJs-333?style=for-the-badge&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express)
@@ -33,3 +33,5 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](http://instagram.com/thedjam)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](http://t.me/thedjam)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltimirovJo&count_private=true&show_icons=true&theme=tokyonight)
